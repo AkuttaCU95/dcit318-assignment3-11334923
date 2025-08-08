@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment3-11334923\\assignment3\\health management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|solutionrelative:health management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment3-11334923\\assignment3\\finance management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|solutionrelative:finance management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment3-11334923\\assignment3\\assignment3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75754583-2861-4A9A-9840-C62EC7271C8D}|Assignment3.csproj|solutionrelative:assignment3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Health Management System.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Health Management System.cs",
+              "RelativeDocumentMoniker": "Health Management System.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Health Management System.cs",
+              "RelativeToolTip": "Health Management System.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAiwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:24:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Assignment3.csproj",
+              "RelativeDocumentMoniker": "Assignment3.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Assignment3.csproj",
+              "RelativeToolTip": "Assignment3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T16:21:32.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Finance Management System.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Finance Management System.cs",
               "RelativeDocumentMoniker": "Finance Management System.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment3-11334923\\Assignment3\\Finance Management System.cs",
               "RelativeToolTip": "Finance Management System.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T15:48:15.294Z",
               "EditorCaption": ""
